@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-class TMA3 {
+public class TMA3 {
     public static void main(String[] args)
     {
         // Initializing the Linked List
